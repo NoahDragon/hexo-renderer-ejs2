@@ -1,6 +1,8 @@
 # [EJS] v2 renderer
 
 [![Build Status](https://travis-ci.org/NoahDragon/hexo-renderer-ejs2.svg?branch=master)](https://travis-ci.org/NoahDragon/hexo-renderer-ejs2)
+[![npm version](https://badge.fury.io/js/hexo-renderer-ejs2.svg)](https://badge.fury.io/js/hexo-renderer-ejs2)
+
 
 Add support for [EJS] version 2.
 
