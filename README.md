@@ -19,7 +19,7 @@ $ npm install hexo-renderer-ejs2 --save
 
 Repo originate: https://github.com/hexojs/hexo-renderer-ejs
 
-Original maintainer: [Tommy Chen](http://zespia.tw)
+Original maintainer: [Tommy Chen](http://zespia.tw), [Christopher Martin](https://www.cgmartin.com/)
 
 Original lisence: MIT
 
