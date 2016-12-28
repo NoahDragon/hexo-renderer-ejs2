@@ -4,12 +4,18 @@
 
 Add support for [EJS] version 2.
 
-As EJS v2 breaks backwards compatibility (https://github.com/hexojs/hexo-renderer-ejs/pull/5), an EJS v2 renderer for Hexo is needed. So here it is.   
+As [EJS] v2 breaks backwards compatibility (https://github.com/hexojs/hexo-renderer-ejs/pull/5), an [EJS] v2 renderer for Hexo is needed. So here it is.   
 
 ## Install
 
 ``` bash
 $ npm install hexo-renderer-ejs2 --save
 ```
+
+# Credit & Info
+
+Repo originate: https://github.com/hexojs/hexo-renderer-ejs
+Original maintainer: [Tommy Chen](http://zespia.tw)
+Original lisence: MIT
 
 [EJS]: https://github.com/visionmedia/ejs
