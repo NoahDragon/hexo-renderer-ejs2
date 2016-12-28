@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/NoahDragon/hexo-renderer-ejs2.svg?branch=master)](https://travis-ci.org/NoahDragon/hexo-renderer-ejs2)
 [![npm version](https://badge.fury.io/js/hexo-renderer-ejs2.svg)](https://badge.fury.io/js/hexo-renderer-ejs2)
+[![Coverage Status](https://coveralls.io/repos/github/NoahDragon/hexo-renderer-ejs2/badge.svg?branch=master)](https://coveralls.io/github/NoahDragon/hexo-renderer-ejs2?branch=master)
 
 
 Add support for [EJS] version 2.
