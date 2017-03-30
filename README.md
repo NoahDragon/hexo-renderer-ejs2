@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/NoahDragon/hexo-renderer-ejs2/badge.svg?branch=master)](https://coveralls.io/github/NoahDragon/hexo-renderer-ejs2?branch=master)
 
 
-**Deprecated** Please use [hexo-renderer-ejs].
+# **Deprecated** Please use [hexo-renderer-ejs].
 
 Add support for [EJS] version 2.
 
