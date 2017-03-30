@@ -5,6 +5,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/NoahDragon/hexo-renderer-ejs2/badge.svg?branch=master)](https://coveralls.io/github/NoahDragon/hexo-renderer-ejs2?branch=master)
 
 
+** Deprecated ** Please use [hexo-renderer-ejs].
+
 Add support for [EJS] version 2.
 
 As [EJS] v2 breaks backwards compatibility (https://github.com/hexojs/hexo-renderer-ejs/pull/5), an [EJS] v2 renderer for Hexo is needed. So here it is.   
@@ -24,3 +26,4 @@ Original maintainer: [Tommy Chen](http://zespia.tw), [Christopher Martin](https:
 Original lisence: MIT
 
 [EJS]: https://github.com/visionmedia/ejs
+[hexo-renderer-ejs]: (https://github.com/hexojs/hexo-renderer-ejs
