@@ -7,7 +7,7 @@
 
 # **Deprecated** 
 
-# Please use [hexo-renderer-ejs].
+# Please use [hexo-renderer-ejs]
 
 Add support for [EJS] version 2.
 
